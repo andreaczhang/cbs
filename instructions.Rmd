@@ -1,0 +1,29 @@
+---
+title: "Instructions"
+output: html_document
+---
+
+## R Markdown
+
+real time monitoring 
+
+cluster of unwell people need to be detected early enough
+
+gap between national surveillance and community 
+
+
+<https://github.com/IFRCGo/cbs/blob/master/Documentation/Projects/Analytics/index.md>
+
+digit 
+
+1: health risk
+2: sex
+3: age
+
+
+
+
+
+
+
+
