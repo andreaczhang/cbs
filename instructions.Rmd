@@ -12,6 +12,9 @@ cluster of unwell people need to be detected early enough
 gap between national surveillance and community 
 
 
+<https://github.com/IFRCGo/cbs/tree/master/Documentation/Projects/Analytics>
+
+
 <https://github.com/IFRCGo/cbs/blob/master/Documentation/Projects/Analytics/index.md>
 
 digit 
